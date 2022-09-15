@@ -739,6 +739,12 @@ https://bcovlive-a.akamaihd.net/r6b4170ad9e8e4ed49986ecc03bac588b/eu-west-1/6058
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/RbkTbn7/1662978498-picsay.png",Real Madrid
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_2.m3u8
 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/XVPds8T/impact-TV.jpg",Wrestling Impact
+https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/Mk0tTQY/MMAtv.jpg",MMA TV
+https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/c.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="Religi" tvg-logo="https://www.lyngsat.com/logo/tv/ee/ewtn_us.png",EWTN
