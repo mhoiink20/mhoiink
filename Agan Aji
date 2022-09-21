@@ -32,9 +32,8 @@ https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 https://liveanevia.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
 
-#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.postimg.cc/sXsy4LtD/mhogie600.png", Agan AjI
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95396f932c837b49397360/playlist.m3u8
-
+#EXTINF:-1 group-title="TV Nasional" tvg-logo="https://i.postimg.cc/sXsy4LtD/mhogie600.png", Sudah Donasi
+https://www.googleapis.com/drive/v3/files/1J9vHJmFARiD74BFk9nGCO7Dq-uGnFYGR?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
