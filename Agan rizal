@@ -49,7 +49,7 @@ http://rr.dens.tv/h/h11/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://www.mncvision.id/userfiles/image/channel/tvone.png",TVOne
-https://streaming.useetv.com/joss/130/tvone/playlist.m3u8?enc=XFBQzHgkJsqXo3p-Ioe9bA&exp=1666446710&encp=uqX10QKBx2wyuIz4Al0i1Q&expp=1666455410
+https://https://liveanevia.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
 
 
 
