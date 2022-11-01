@@ -614,7 +614,7 @@ https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="Kids" tvg-logo="https://www.mncvision.id/userfiles/image/channel/cartoon_network.png",Cartoon Network original
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.ibb.co/PQbmp5L/duniaanak.jpg",Dunia Anak
 https://webudi.openhd.lol/ddy1/premium339/tracks-v1a1/2022/11/01/10/39/11-05000.ts
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
