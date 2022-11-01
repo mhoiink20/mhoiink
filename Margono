@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png?v=2.0.0.15",INDOSIAR
-http://rr2.dens.tv/s/s04/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1667300414~acl=/hls-p/ingest_205_*/*~hmac=f8492ac51b596f6ca22cf3118a7ca4ed77b89880497b8108b4059159fbc7ed33/hls-p/ingest_205_240p/1667290160000.ts
 
 
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png?v=2.0.0.15",SCTV
