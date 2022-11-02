@@ -840,7 +840,7 @@ https://live-cdn.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2-avc1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="Movies 2" tvg-logo="https://i.ibb.co/tB3Fcdb/hollywood-classic.jpg",Hollywood Classic
-https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/sd2/1667387270024.ts
+https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/sd2/1667387806119.ts
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
