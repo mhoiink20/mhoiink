@@ -11,7 +11,7 @@ http://210.210.155.35/qwr9ew/s/s03/01.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="TV Nasional" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_82.png",MNC TV
-https://d2oaub8o4ti3xm.cloudfront.net/live/eds/MNCTV_2021/live_fta/MNCTV_2021.m3u8
+https://d33j155pv2xyba.cloudfront.net/MNCTV_2021-avc1_450000=4-mp4a_96000=2-begin=2473652700000000-dur=60000000-seq=41227546.ts
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
