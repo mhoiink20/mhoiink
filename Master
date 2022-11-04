@@ -170,7 +170,7 @@ https://live-cdn.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="Kids Vision+" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_46.png",Kids Vision+ TV
-https://live-cdn.mncnow.id/live/eds/Kids Vision+Channel/sa_dash_vmx/Kids Vision+Channel.mpd
+https://live-cdn.mncnow.id/live/eds/Kids-HD/sa_dash_vmx/Kids-HD.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
