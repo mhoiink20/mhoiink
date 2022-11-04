@@ -271,6 +271,11 @@ https://live-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 #EXTINF:-1 group-title="Movie Vision+" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_0.png",TVN Premium Indonesia
 https://live-cdn.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="Movie Vision+" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_109.png",TVN Movies Indonesia
+https://live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
