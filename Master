@@ -1186,8 +1186,6 @@ https://live-cdn.mncnow.id/live/eds/MNCShop/sa_dash_vmx/MNCShop.mpd
 #EXTINF:0 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0ByhZHkHlscbaImpLmlF7pOkxfnV-LsnDNQ&usqp=CAU" group-title="MNC GROUP",Be Smart
 https://live-cdn.mncnow.id/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd
 
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Pluto TV Movies",SUBSCRIBE TiviMe YOUTUBE
-https://dl.dropboxusercontent.com/s/7lovt761n44ueza/VID_20220526221756.mp4?dl=0
 
 #EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Pluto TV Movies",Pluto TV Action
 https://bit.ly/39SoJ7h
@@ -1225,8 +1223,6 @@ https://bit.ly/3xOTa6o
 #EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Pluto TV Movies",Paramount Movie Channel
 https://bit.ly/3QD0uKW
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Pluto TV Hiburan",SUBSCRIBE TiviMe YOUTUBE
-https://dl.dropboxusercontent.com/s/7lovt761n44ueza/VID_20220526221756.mp4?dl=0
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Pluto TV Hiburan", Always Funny Videos
 https://tinyurl.com/AMFVSS
@@ -1248,9 +1244,6 @@ https://bit.ly/3qoXZQA
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Pluto TV Hiburan", Pluto TV Vs.
 https://bit.ly/3d1NsYt
-
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Musik",SUBSCRIBE TiviMe YOUTUBE
-https://dl.dropboxusercontent.com/s/7lovt761n44ueza/VID_20220526221756.mp4?dl=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -1630,12 +1623,9 @@ https://v2.siar.us/dutatv/live/playlist.m3u8
 #EXTINF:-116 group-title="TV Lokal" tvg-logo="https://madu.tv/wp-content/uploads/2022/01/LOGO-BARU-MADUTV-2021.png", MADU TV
 https://re1.siar.us/madutv/hd720/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="TV Nasional Indonesia",SUBSCRIBE TiviMe YOUTUBE
-https://dl.dropboxusercontent.com/s/7lovt761n44ueza/VID_20220526221756.mp4?dl=0
 
 
-
-
+MALAYSIA
 
 #EXTINF:-1 tvg-id="Malaysia" tvg-name="TV3" tvg-country="MY" tvg-language="Malay" tvg-logo="https://i.ibb.co/1JgHFVK/malaysia.jpg" group-title="Malaysia",Unifi Sport
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
