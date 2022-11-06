@@ -1,11 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Lakukan pembayaran" tvg-logo="https://i.postimg.cc/sXsy4LtD/mhogie600.png", bisa gopay 089601470274
+#EXTINF:-1 group-title="Premium" tvg-logo="https://i.postimg.cc/sXsy4LtD/mhogie600.png", Persembahan Mhogie Store
 https://www.googleapis.com/drive/v3/files/1J9vHJmFARiD74BFk9nGCO7Dq-uGnFYGR?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
 
-#EXTINF:-1 group-title="sblm jam 12 siang" tvg-logo="https://i.postimg.cc/sXsy4LtD/mhogie600.png", ovo/dana/shoope 089601470274
-https://www.googleapis.com/drive/v3/files/1J9vHJmFARiD74BFk9nGCO7Dq-uGnFYGR?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-
+#
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
